@@ -5,7 +5,7 @@ The operating and design principles, and purpose of the SpaceRanch organization 
 
 ## Purpose of SpaceRanch DAO
 
-The purpose of the SpaceRanch DAO is to funciton as a land management organization which operates properties for the use of horizontal and vertical launch vehicles
+The purpose of the SpaceRanch DAO is to funciton as a land management organization which will purchase, develope and operate properties to facilitate space launch, development, tourism, and regenerative agriculture and energy production.
 
 
 ## Operating Principles
@@ -21,7 +21,8 @@ Our operationing procedures begin with a framework of principles and values that
 
 Our development approach begins with a framework of principles and values that guide decision making
 
-- Hardware and Blockchain Agnostic 
+- Hardware Agnostic
+- Blockchain Agnostic 
 - Data Ownership
 - Data Privacy
 - Data Resiliency - Modular, Redundant
