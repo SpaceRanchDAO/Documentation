@@ -2,11 +2,11 @@
 
 ## Token Specifications
 **Blockchain**
-- TBD
+TBD
 **Token Symbol**
-- SPCR
+SPCR
 **Total Supply**
-- TBD
+TBD
 
 
 ## Initial Distribution
