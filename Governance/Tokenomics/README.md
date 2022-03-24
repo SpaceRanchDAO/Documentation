@@ -1,5 +1,9 @@
 # SpaceRanch Tokenomics
 
+## Introduction
+The tokenomics outlines the specifications, utilities and distribution of the SpaceRanch governance token
+
+
 ## Token Specifications
 - **Blockchain**
     - TBD
@@ -7,6 +11,9 @@
     - SPCR
 - **Total Supply**
     - TBD
+
+## Utilities
+- Voting 
 
 
 ## Initial Distribution
