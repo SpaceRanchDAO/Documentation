@@ -1,5 +1,6 @@
 # SpaceRanch DAO Constitution
 
+## Introduction
 The SpaceRanch Constitution represents Arbitration, Consensus Structure and Voting Rights for the DAO. 
 
 
