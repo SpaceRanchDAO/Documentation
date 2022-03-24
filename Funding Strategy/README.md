@@ -4,11 +4,11 @@ SpaceRanch DAO is the land management organization intended to purchase and oper
 
 Our primary public funding strategies will incorporate a NFT membership program, and Initial DAO offering. The NFT membership program will begin prior to the IDO, but may run concurrently if all memberships aren't claimed.  
 
-## NFT Membership Program
+## NFT Membership Fundraiser
 
 - https://github.com/SpaceRanchDAO/Documentation/tree/main/Funding%20Strategy/NFT%20Membership%20Fundraiser
 
-The SpaceRanch NFT membership program will enable participants to engage with the web3 applications built for the SpaceRanch ecosystem, as well as access to the physical properties and digital immersive environments.
+The SpaceRanch NFT membership fundraiser is a mechanism to raise capital through a tiered membership program which will enable participants to engage with the web3 applications built for the SpaceRanch ecosystem, as well as access to the physical properties and digital immersive environments.
 
 A succesful program will generate $25 million, which will be the necessary amount of funding to meet capital expendiatures for the purchase and development of the SpaceRanch.   
 
