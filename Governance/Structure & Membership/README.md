@@ -5,7 +5,7 @@ The SpaceRanch DAO is registered on the NEAR blockchain as a DAO LLC in the stat
 
 ## Councils
 
-We formalized the SpaceRanch DAO with an initial governing council, with members representing a range of expertise across various industries, web3, metaverse, real estate, ai, and space.  This council is responsible for designating specialized councils for the effective management of the organization. 
+We formalized the SpaceRanch DAO with an initial governing council, with members representing a range of expertise across various industries: web3, metaverse, real estate, ai, and space.  This council is responsible for designating specialized councils for the effective management of the organization. 
 
 The councils function with a holocratic methodology, allowing for fluid and effective management of tasks and processes. 
 
