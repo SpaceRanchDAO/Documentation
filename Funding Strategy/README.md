@@ -6,7 +6,7 @@ Our primary public funding strategies will incorporate a NFT membership program,
 
 ## NFT Membership Program
 
-- 
+- https://github.com/SpaceRanchDAO/Documentation/tree/main/Funding%20Strategy/NFT%20Membership%20Fundraiser
 
 The SpaceRanch NFT membership program will enable participants to engage with the web3 applications built for the SpaceRanch ecosystem, as well as access to the physical properties and digital immersive environments.
 
@@ -16,7 +16,7 @@ Up to 10% of the SPCR token supply will be distributed to the SpaceRanch NFT mem
 
 ## SpaceRanch Initial DAO Offering, SPCR IDO
 
-- 
+- https://github.com/SpaceRanchDAO/Documentation/tree/main/Funding%20Strategy/Initial%20DAO%20Offering
 
 The SPCR IDO intends to crowdfund and pool resources from participants by distributing governance tokens - SPCR - through a multi phase Initial DAO Offering (IDO).  
 
