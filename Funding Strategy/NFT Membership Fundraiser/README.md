@@ -90,11 +90,10 @@ The general public can access the facilities after an onboarding process and pur
     - Scheduled tours of the hanger are available to the ranks of Ensign, Luietenant, Commander and Captain.
 
 - **Launch Center**
-    - Scheduled tours of the Launch Center are available to the ranks of Ensign, Luietenant, Commander and Captain.
-
+    - Scheduled tours of the Launch Center are available to all ranks and the general public. 
 
 - **Cattle, Bison, Buffalo Ranch**
-    - One of the key features of the SpaceRanch is that it will remain a working ranch with regenerative agricultural principles. Meat and goods from the ranch will be available to all members at wholesale prices, and available to the local communities.
+    - One of the key features of the SpaceRanch is that it will remain a working ranch with regenerative agricultural principles. Meat and goods from the ranch will be available to all members at wholesale prices, and will be made available to the local community.
 
 ## Digital Emmersive Environment
 
