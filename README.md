@@ -8,4 +8,4 @@ This repository contains the documentation for the operations of the SpaceRanch 
 ## Funding Strategy
 - https://github.com/SpaceRanchDAO/Documentation/tree/main/Funding%20Strategy
 ## WASP
-- [WASP.pdf](https://github.com/SpaceRanchDAO/Documentation/files/10144031/WASP.pdf)
+- [WASP.pdf]()
